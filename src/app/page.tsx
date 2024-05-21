@@ -18,10 +18,8 @@ export default function Home() {
         className="relative flex flex-col gap-4 items-center justify-center px-4"
       >
         <div className="text-3xl md:text-7xl font-bold dark:text-white text-center">
-          Page in construction
+          Coming soon
         </div>
-
-
       </motion.div>
     </AuroraBackground>
   );
